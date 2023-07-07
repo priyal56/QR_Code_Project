@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs-write-stream-atomic": "^1.0.10",
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  }
+}
